@@ -8,6 +8,20 @@
       "when": 1726407803937,
       "tag": "0000_massive_mockingbird",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1726796985131,
+      "tag": "0001_good_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1726799550615,
+      "tag": "0002_cultured_pretty_boy",
+      "breakpoints": true
     }
   ]
 }

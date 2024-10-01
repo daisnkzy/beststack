@@ -1,12 +1,11 @@
-<script setup>
-	import SingleCard from '../UI/SingleCard.vue'
-</script>
+<script setup></script>
 
 <template>
 	<section class="grid grid-cols-3 gap-6">
-		<SingleCard />
-		<SingleCard />
-		<SingleCard />
-		<SingleCard />
+		<UISingleCard />
+		<UISingleCard />
+		<UISingleCard />
+		<UISingleCard />
+		<UISingleCard />
 	</section>
 </template>
