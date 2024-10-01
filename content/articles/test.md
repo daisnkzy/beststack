@@ -13,7 +13,7 @@ slug: test
 
 ---
 
-```js [test.js]
+```js
 //code block
 
 class ProjectActions {
